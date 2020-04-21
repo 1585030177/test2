@@ -155,7 +155,7 @@ public class GenericsDemo {
             System.out.println(time);
         }
         //10-步骤7-9一共重复两次，分别输出两个顾客所购买的车的信息
-
+        System.out.println("git修改成功");
     }
 
 }
