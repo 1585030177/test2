@@ -156,6 +156,7 @@ public class GenericsDemo {
         }
         //10-步骤7-9一共重复两次，分别输出两个顾客所购买的车的信息
         System.out.println("小袁修改了部分源码，提交到远程仓库.");
+        System.out.println("小袁修改了bug,然后去睡觉了");
     }
 
 }
